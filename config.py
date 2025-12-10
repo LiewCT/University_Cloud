@@ -1,0 +1,6 @@
+customhost = "university.c0dopwp03hgc.us-east-1.rds.amazonaws.com"
+customuser = "University"
+custompass = "University"
+customdb = "University"
+custombucket = "university-s3-bucket"
+customregion = "us-east-1"
